@@ -10,7 +10,7 @@ export const FooterLayout = (): JSX.Element => {
         className="flex justify-center items-center"
       >
         Created by yamakenji24
-        {/* <Image width="40" height="40" src="https://github.com/yamakenji24.png" alt="yamakenji24" /> */}
+        <Image width="40" height="40" src="https://github.com/YusukeMiyao.png" alt="YsukeMiyao" />
       </a>
    </footer>
   )
